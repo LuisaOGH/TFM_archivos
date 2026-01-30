@@ -1,11 +1,11 @@
 Metrica,Grupo_Manual,N.º Vars,Media_Arit,Mín_Abs,Máx_Abs,Mediana_Grup
-Absoluto,Indicador I1,10,-167755.95,-7273423.17,1677948.25,82.08
-Absoluto,Indicador I2,6,269381.61,-55.98,3683775.5,7353.42
-Absoluto,Indicador I3,6,541.38,-2189.92,8741.5,43.98
-Absoluto,Indicador I4,1,15559811.15,10532817.42,21487916.67,16359667.08
-Absoluto,Indicador I5,3,675.1,0.33,4666.42,3.75
+Absoluto,Indicador I1: Estructurales,10,-167755.95,-7273423.17,1677948.25,82.08
+Absoluto,Indicador I2: Coyunturales,6,269381.61,-55.98,3683775.5,7353.42
+Absoluto,Indicador I3: Financieros,6,541.38,-2189.92,8741.5,43.98
+Absoluto,Indicador I4: Laborales,1,15559811.15,10532817.42,21487916.67,16359667.08
+Absoluto,Indicador I5: Inmobiliarios,3,675.1,0.33,4666.42,3.75
 Absoluto,Otros,1,1992.5,1960.0,2025.0,1992.5
-Porcentual (%),Indicador I1,7,43.65,-0.5,215.49,20.78
-Porcentual (%),Indicador I3,3,289.6,-21747.26,18926.39,3.85
-Porcentual (%),Indicador I4,5,5.9,-26.98,71.4,5.47
-Porcentual (%),Indicador I5,1,6.05,3.09,9.36,6.71
+Porcentual (%),Indicador I1: Estructurales,7,43.65,-0.5,215.49,20.78
+Porcentual (%),Indicador I3: Financieros,3,289.6,-21747.26,18926.39,3.85
+Porcentual (%),Indicador I4: Laborales,5,5.9,-26.98,71.4,5.47
+Porcentual (%),Indicador I5: Inmobiliarios,1,6.05,3.09,9.36,6.71
