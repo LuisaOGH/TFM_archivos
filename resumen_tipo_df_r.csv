@@ -1,4 +1,4 @@
-Grupo_Manual,N.º Vars,Media_Arit,Mín_Abs,Máx_Abs,Mediana_Grup
-Crédito bancario por Sectores,45,240838.84,-37579.78,2311532.24,43936.23
-Crédito bancario por Territorios,38,30631.08,8.39,446359.86,6713.59
-Año,1,2010.0,1996.0,2024.0,2010.0
+Origen_DF,Grupo_Manual,N.º Vars,Media_Arit,Mín_Abs,Máx_Abs,Mediana_Grup
+Varios,Otros,1,2010.0,1996.0,2024.0,2010.0
+df_r,Crédito por Sectores,45,240838.84,-37579.78,2311532.24,43936.23
+df_r,Crédito por Territorios,38,30631.08,8.39,446359.86,6713.59
