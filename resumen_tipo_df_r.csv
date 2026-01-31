@@ -1,4 +1,6 @@
 Grupo_Manual,N.º Vars,Media_Arit,Mín_Abs,Máx_Abs,Mediana_Grup
-Año,1,1992.5,1960.0,2025.0,1992.5
-Créditos Dudosos (Mora),1,2.66,0.33,6.08,2.62
-Otros,41,378171.27,-7273423.17,21487916.67,20.78
+Año,1,2007.0,1990.0,2024.0,2007.0
+Crédito bancario por Sectores,45,226863.26,-325034.72,2311532.24,36281.24
+Crédito bancario por Territorios,38,26481.06,0.0,446359.86,6161.53
+Créditos Dudosos (Mora),36,12024.82,0.12,202734.23,1469.92
+Digitalización,11,210572.67,119.53,2127574.01,20012.7
