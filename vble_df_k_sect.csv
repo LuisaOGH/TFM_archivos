@@ -1,2 +1,6 @@
-,Métrica,Grupo,N.º Vars,Media_Arit,Mín_Abs,Máx_Abs,Mediana_Grup
-0,Absoluto (Unidades),Otros,5,70376.78,49.27,933243.0,6391.08
+,Nombre,Tipo de variable,Media,Mínimo,Máximo,Mediana
+0,Año,Cuantitativa discreta,"2.012,99","2.000,00","2.024,00","2.014,00"
+1,S_Primario,Cuantitativa continua,"10.546,57","77,61","34.201,00","1.262,04"
+2,S_Secundario_exConstr,Cuantitativa continua,"58.551,70","103,75","214.377,00","6.391,08"
+3,S_Secundario_Construccion,Cuantitativa continua,"32.264,70","83,09","153.453,03","7.905,40"
+4,S_Terciario,Cuantitativa continua,"248.507,93","49,27","933.243,00","49.080,22"
