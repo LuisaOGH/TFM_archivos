@@ -1,6 +1,7 @@
-,Nombre,Tipo de variable,Media,Mínimo,Máximo,Mediana
-0,Año,Cuantitativa discreta,"2.012,99","2.000,00","2.024,00","2.014,00"
-1,S_Primario,Cuantitativa continua,"10.546,57","77,61","34.201,00","1.262,04"
-2,S_Secundario_exConstr,Cuantitativa continua,"58.551,70","103,75","214.377,00","6.391,08"
-3,S_Secundario_Construccion,Cuantitativa continua,"32.264,70","83,09","153.453,03","7.905,40"
-4,S_Terciario,Cuantitativa continua,"248.507,93","49,27","933.243,00","49.080,22"
+,Categoría,Media,Mínimo,Máximo,Mediana,N.º Obs
+0,VAB,"944.027,61","590.617,00","1.254.481,00","987.008,00",23
+1,dudoso,"61.018,13","8.311,97","186.342,84","39.749,76",25
+2,empleados,"23.159,07","19.683,60","26.269,60","23.295,60",25
+3,importemedptmo,"2.397,76","2.364,10","2.425,73","2.389,97",8
+4,numprestamo,"8.365,09","6.913,08","9.752,11","8.311,77",8
+5,riesgo,"648.463,87","304.034,27","1.020.055,60","593.630,70",25
