@@ -1,8 +1,4 @@
-,Nombre,Tipo de variable,Media,Mínimo,Máximo,Mediana
-0,    Edad: De 16 a 24 años,Cuantitativa continua,"74,80","63,30","82,50","78,60"
-1,    Edad: De 25 a 34 años,Cuantitativa continua,"82,13","71,80","90,90","83,70"
-2,    Edad: De 35 a 44 años,Cuantitativa continua,"80,63","69,80","89,00","83,10"
-3,    Edad: De 45 a 54 años,Cuantitativa continua,"71,80","60,50","80,70","74,20"
-4,    Edad: De 55 a 64 años,Cuantitativa continua,"55,30","44,90","64,20","56,80"
-5,    Edad: De 65 a 74 años,Cuantitativa continua,"32,80","26,80","38,50","33,10"
-6,ecommerce,Cuantitativa continua,"15,96","1,00","36,88","10,55"
+,Categoría,Media,Mínimo,Máximo,Mediana,N.º Obs
+0,Empresas,"17,89","4,08","31,69","17,89",2
+1,Población,"397,47","337,10","445,80","409,50",3
+2,S,"15,31","1,00","36,88","10,55",6
