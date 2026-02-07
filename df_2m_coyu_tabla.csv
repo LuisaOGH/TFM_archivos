@@ -1,16 +1,7 @@
-Variable_1m_estr,Contribución (%)_1m_estr,Carga_PC1_1m_estr,Max_Corr_1m_estr,Dirección_1m_estr,Lag_1m_estr
-Tasa Dependencia,9.38,0.3365,0.9705,Directa,-2
-VAB Sector Terciario,9.28,0.3328,0.9557,Directa,0
-PIB pc,9.0,0.3229,0.9273,Directa,0
-Productividad,8.99,0.3224,0.9259,Directa,0
-Stock de capital sobre empleo,8.98,0.3221,0.9451,Directa,2
-Inflación de exportaciones,8.71,0.3125,0.9436,Directa,3
-Inflación de Importaciones,8.45,0.3032,0.8946,Directa,3
-VAB Sector Primario,8.21,0.2944,0.8696,Directa,3
-Tasa Población Activa,7.69,-0.2758,-0.9102,Indirecta,-3
-VAB Sector Secundario,5.24,0.1879,0.5395,Directa,0
-Déficit Público,4.77,-0.1712,-0.4924,Indirecta,1
-Inversión privada sobre PIB,3.78,-0.1357,-0.5129,Indirecta,-3
-Inflación,3.39,-0.1215,-0.6983,Indirecta,3
-Indice Producción Industrial,3.13,-0.1123,-0.5427,Indirecta,-3
-Tasa Paro,1.03,-0.0368,-0.121,Indirecta,-1
+Variable_2m_coyu,Contribución (%)_2m_coyu,Carga_PC1_2m_coyu,Max_Corr_2m_coyu,Dirección_2m_coyu,Lag_2m_coyu
+Matriculación Vehículos Industriales,19.72,0.4753,0.9248,Directa,0
+Ventas Vehículos,19.65,0.4736,0.9216,Directa,0
+Indice Confianza Empresarial en la construcción,18.86,0.4546,0.8846,Directa,0
+Indice Confianza Empresarial,15.54,0.3747,0.729,Directa,0
+Indice Confianza Consumidor,14.66,0.3535,0.6878,Directa,0
+Licitación Viviendas,11.57,0.2789,0.8042,Directa,-3
