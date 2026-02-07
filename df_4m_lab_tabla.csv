@@ -1,0 +1,5 @@
+Variable_4m_lab,Contribución (%)_4m_lab,Carga_PC1_4m_lab,Max_Corr_4m_lab,Dirección_4m_lab,Lag_4m_lab
+%var anual Salarios,33.48,0.6201,0.9282,Directa,0
+PDE: %var pagos Pensiones Seg.Social,31.95,0.5918,0.886,Directa,0
+PDE: %var Cotizaciones Seg.Social,26.66,0.4938,0.796,Directa,1
+PDE: %var pagos Desempleo Seg.Social,7.91,0.1466,0.3369,Directa,-1
