@@ -1,4 +1,4 @@
-Variable_15r_hog,Contribución (%)_15r_hog,Carga_PC1_15r_hog,Max_Corr_15r_hog,Dirección_15r_hog,Lag_15r_hog
-R_Hogar_Resto,35.4,0.6109,0.9571,Directa,0
-R_Hogar_Vivienda,35.35,0.61,0.9726,Directa,-1
-R_Hogar_Consumo,29.25,0.5047,0.8318,Directa,1
+Variable_16m_agr,Contribución (%)_16m_agr,Carga_PC1_16m_agr,Max_Corr_16m_agr,Dirección_16m_agr,Lag_16m_agr
+agricultura_empleo,33.82,0.5858,0.9602,Directa,1
+agricultura_VAB,33.18,0.5747,0.9432,Directa,0
+agricultura_dudosos,33.0,-0.5715,-0.9362,Indirecta,-1
