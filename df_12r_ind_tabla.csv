@@ -1,0 +1,10 @@
+Variable_12r_ind,Contribución (%)_12r_ind,Carga_PC1_12r_ind,Max_Corr_12r_ind,Dirección_12r_ind,Lag_12r_ind
+Sec_Industria_Metalurgia,15.54,0.4431,0.9798,Directa,0
+Sec_Industria_Quimica,14.99,0.4272,0.9447,Directa,0
+Sec_Industria_Alimentacion,13.46,0.3837,0.8499,Directa,-1
+Sec_Industria_Energia,13.33,0.3799,0.9481,Directa,-2
+Sec_Industria_Minerales,11.75,0.3351,0.7904,Directa,1
+Sec_Industria_Otras_Manufacturas,10.88,0.3103,0.7982,Directa,2
+Sec_Industria_Transporte,9.84,0.2805,0.6203,Directa,0
+Sec_Industria_Extractiva,5.17,0.1473,0.3976,Directa,2
+Sec_Industria_Petroleo,5.04,0.1438,0.6619,Directa,-3
