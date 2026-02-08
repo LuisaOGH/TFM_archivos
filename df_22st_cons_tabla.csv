@@ -1,3 +1,3 @@
 Variable_21st_ind,Contribución (%)_21st_ind,Carga_PC1_21st_ind,Max_Corr_21st_ind,Dirección_21st_ind,Lag_21st_ind
-PCA riesgos industria,50.0,0.7071,0.8818,Directa,2
-PCA macro industria,50.0,-0.7071,-0.9684,Indirecta,-3
+PCA riesgos construccion,50.0,0.7071,0.9023,Directa,-1
+PCA macro construccion,50.0,0.7071,0.8924,Directa,1
