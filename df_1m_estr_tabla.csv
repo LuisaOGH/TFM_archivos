@@ -1,16 +1,16 @@
 Variable_1m_estr,Contribución (%)_1m_estr,Carga_PC1_1m_estr,Max_Corr_1m_estr,Dirección_1m_estr,Lag_1m_estr
-Tasa Dependencia,9.38,0.3365,0.9705,Directa,-2
-VAB Sector Terciario,9.28,0.3328,0.9557,Directa,0
-PIB pc,9.0,0.3229,0.9273,Directa,0
-Productividad,8.99,0.3224,0.9259,Directa,0
-Stock de capital sobre empleo,8.98,0.3221,0.9451,Directa,2
-Inflación de exportaciones,8.71,0.3125,0.9436,Directa,3
-Inflación de Importaciones,8.45,0.3032,0.8946,Directa,3
-VAB Sector Primario,8.21,0.2944,0.8696,Directa,3
-Tasa Población Activa,7.69,-0.2758,-0.9102,Indirecta,-3
-VAB Sector Secundario,5.24,0.1879,0.5395,Directa,0
-Déficit Público,4.77,-0.1712,-0.4924,Indirecta,1
-Inversión privada sobre PIB,3.78,-0.1357,-0.5129,Indirecta,-3
-Inflación,3.39,-0.1215,-0.6983,Indirecta,3
-Indice Producción Industrial,3.13,-0.1123,-0.5427,Indirecta,-3
-Tasa Paro,1.03,-0.0368,-0.121,Indirecta,-1
+Stock de capital sobre empleo,9.24,0.3353,0.956,Directa,1
+Tasa Dependencia,8.88,0.3225,0.9733,Directa,-3
+Productividad,8.82,0.3203,0.9299,Directa,-1
+Tasa Población Activa,8.79,-0.3192,-0.9744,Indirecta,-3
+VAB Sector Terciario,8.68,0.3152,0.9541,Directa,3
+Inflación de exportaciones,8.16,0.296,0.8788,Directa,3
+PIB pc,8.0,0.2903,0.9174,Directa,3
+Inflación de Importaciones,7.46,0.2708,0.8226,Directa,3
+VAB Sector Primario,7.38,0.268,0.8211,Directa,-2
+Indice Producción Industrial,6.63,-0.2406,-0.7613,Indirecta,-2
+Inversión privada sobre PIB,5.98,-0.217,-0.6777,Indirecta,-1
+Déficit Público,5.26,-0.1909,-0.5923,Indirecta,0
+Tasa Paro,2.8,0.1017,0.3464,Directa,-2
+Inflación,2.52,-0.0915,-0.4097,Indirecta,3
+VAB Sector Secundario,1.4,0.0507,0.275,Directa,3
