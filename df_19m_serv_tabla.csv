@@ -1,3 +1,4 @@
-Variable_20st_agr,Contribución (%)_20st_agr,Carga_PC1_20st_agr,Max_Corr_20st_agr,Dirección_20st_agr,Lag_20st_agr
-PCA riesgos agricultura,50.0,-0.7071,-0.925,Indirecta,2
-PCA macro agricultura,50.0,0.7071,0.9551,Directa,-3
+Variable_19m_serv,Contribución (%)_19m_serv,Carga_PC1_19m_serv,Max_Corr_19m_serv,Dirección_19m_serv,Lag_19m_serv
+servicios_empleo,45.05,0.7059,0.9664,Directa,0
+servicios_VAB,43.81,-0.6864,-0.9398,Indirecta,0
+servicios_dudosos,11.15,0.1747,0.3486,Directa,3
