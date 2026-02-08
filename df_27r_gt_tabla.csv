@@ -1,9 +1,9 @@
 Variable_27r_gt,Contribución (%)_27r_gt,Carga_PC1_27r_gt,Max_Corr_27r_gt,Dirección_27r_gt,Lag_27r_gt
-AAPP gt2,14.71,0.4095,0.9597,Directa,0
-AAPP gt5,14.67,0.4083,0.957,Directa,0
-AAPP gt7,13.73,0.3823,0.8959,Directa,0
-AAPP gt8,12.71,0.3539,0.8294,Directa,0
-AAPP gt3,12.65,0.3523,0.8773,Directa,-2
-AAPP gt1,12.63,0.3518,0.8307,Directa,-1
-AAPP gt6,11.69,0.3256,0.763,Directa,0
-AAPP gt9,7.21,0.2007,0.5003,Directa,2
+"AAPP gt2 (altoR, medioSP)",14.71,0.4095,0.9597,Directa,0
+"AAPP gt5 (medioR, medioSP)",14.67,0.4083,0.957,Directa,0
+"AAPP gt7 (bajoR, altoSP)",13.73,0.3823,0.8959,Directa,0
+"AAPP gt8 (bajoR, medioSP)",12.71,0.3539,0.8294,Directa,0
+"AAPP gt3 (altoR, bajoSP)",12.65,0.3523,0.8773,Directa,-2
+"AAPP gt1 (altoR, altoSP)",12.63,0.3518,0.8307,Directa,-1
+"AAPP gt6 (medioR, bajoSP)",11.69,0.3256,0.763,Directa,0
+"AAPP gt9 (bajoR, bajoSP)",7.21,0.2007,0.5003,Directa,2
