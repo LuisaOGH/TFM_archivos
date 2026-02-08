@@ -1,10 +1,10 @@
 Variable_3m_fin,Contribución (%)_3m_fin,Carga_PC1_3m_fin,Max_Corr_3m_fin,Dirección_3m_fin,Lag_3m_fin
-NPL Solvencia Bancaria,18.33,0.4763,0.9795,Directa,-2
-TAE media préstamos,17.63,0.458,0.9575,Directa,1
-Rentabilidad MI Banca,17.31,0.4496,0.9157,Directa,1
-Emisión Obligaciones,14.54,-0.3777,-0.7634,Indirecta,0
-Rotación Mercado Deuda cp,13.85,-0.3598,-0.7271,Indirecta,0
-Rotación Mercado Deuda lp,9.83,0.2554,0.5312,Directa,-1
-Emisión Letras,4.39,0.1141,0.2305,Directa,0
-Emisión Bonos,3.99,0.1037,0.2184,Directa,-1
-Rentabilidad IBEX,0.14,0.0036,0.1568,Directa,3
+Rotación Mercado Deuda cp,18.14,0.4973,0.9456,Directa,0
+Rotación Mercado Deuda lp,16.17,0.4432,0.8428,Directa,0
+NPL Solvencia Bancaria,15.11,-0.4141,-0.8361,Indirecta,-1
+Emisión Bonos,13.77,-0.3775,-0.7178,Indirecta,0
+TAE media préstamos,13.49,-0.3697,-0.7638,Indirecta,1
+Rentabilidad MI Banca,6.57,-0.1801,-0.3539,Indirecta,3
+Emisión Obligaciones,6.52,0.1788,0.5945,Directa,-3
+Emisión Letras,6.25,-0.1712,-0.4026,Indirecta,3
+Rentabilidad IBEX,3.97,-0.1089,-0.303,Indirecta,-1
