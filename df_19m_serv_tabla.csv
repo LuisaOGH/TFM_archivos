@@ -1,4 +1,4 @@
-Variable_18m_cons,Contribución (%)_18m_cons,Carga_PC1_18m_cons,Max_Corr_18m_cons,Dirección_18m_cons,Lag_18m_cons
-construccion_empleo,34.96,0.6047,0.9052,Directa,0
-construccion_VAB,34.28,-0.5929,-0.9133,Indirecta,-1
-construccion_dudosos,30.76,-0.5319,-0.9352,Indirecta,2
+Variable_19m_serv,Contribución (%)_19m_serv,Carga_PC1_19m_serv,Max_Corr_19m_serv,Dirección_19m_serv,Lag_19m_serv
+servicios_empleo,45.05,0.7059,0.9664,Directa,0
+servicios_VAB,43.81,-0.6864,-0.9398,Indirecta,0
+servicios_dudosos,11.15,0.1747,0.3486,Directa,3
