@@ -1,5 +1,5 @@
 Variable_5m_inmo,Contribución (%)_5m_inmo,Carga_PC1_5m_inmo,Max_Corr_5m_inmo,Dirección_5m_inmo,Lag_5m_inmo
-Consumo Cemento,47.43,0.7099,0.9557,Directa,0
-Ratio Morosidad Hipotecaria,46.82,-0.7007,-0.9433,Indirecta,0
-Tipo interés préstamos hipotecarios,4.57,0.0685,0.1255,Directa,-3
-% Precio Vivienda s/Renta,1.18,0.0176,-0.4413,Indirecta,3
+Consumo Cemento,46.21,0.7037,0.9525,Directa,0
+Ratio Morosidad Hipotecaria,46.15,-0.7026,-0.9511,Indirecta,0
+% Precio Vivienda s/Renta,6.91,0.1052,-0.485,Indirecta,3
+Tipo interés préstamos hipotecarios,0.73,-0.0111,0.2319,Directa,3
