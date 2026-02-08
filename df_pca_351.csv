@@ -1,11 +1,11 @@
 ,Variable_m_0_ciclo,Contribución (%)_m_0_ciclo,Carga_PC1_m_0_ciclo,Max_Corr_m_0_ciclo,Dirección_m_0_ciclo,Lag_m_0_ciclo
-0,VAB Sector Terciario,14.82,0.4263,0.9826,Directa,0
-1,PIB per cápita,14.4,0.4142,0.9507,Directa,0
-2,Variación Precios Exportaciones,13.66,0.3929,0.9144,Directa,3
-3,Productividad,13.18,0.3791,0.8703,Directa,0
-4,Variación Precios Importaciones,13.16,0.3787,0.8948,Directa,0
-5,VAB Sector Primario,11.51,0.3312,0.8223,Directa,-2
-6,IPI,7.47,-0.2149,-0.737,Indirecta,-3
-7,VAB Sector Secundario,5.82,0.1675,0.4219,Directa,0
-8,Indice Confianza Construcción,4.97,-0.1431,-0.3019,Indirecta,-3
-9,Indice Confianza Industrial,1.0,-0.0288,0.2056,Directa,3
+0,VAB Sector Terciario,14.32,0.4064,0.9767,Directa,0
+1,PIB per cápita,14.06,0.399,0.959,Directa,0
+2,Variación Precios Exportaciones,13.49,0.3829,0.9202,Directa,0
+3,Variación Precios Importaciones,13.27,0.3766,0.9052,Directa,0
+4,VAB Sector Primario,12.49,0.3545,0.8955,Directa,3
+5,Productividad,12.38,0.3514,0.8446,Directa,0
+6,VAB Sector Secundario,11.16,0.3168,0.7614,Directa,0
+7,Indice Confianza Industrial,6.44,0.1829,0.4395,Directa,0
+8,Indice Confianza Construcción,2.29,0.0651,-0.1708,Indirecta,-3
+9,IPI,0.09,0.0026,-0.3172,Indirecta,-3
