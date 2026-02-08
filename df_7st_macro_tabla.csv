@@ -1,6 +1,6 @@
 Variable_7st_macro,Contribución (%)_7st_macro,Carga_PC1_7st_macro,Max_Corr_7st_macro,Dirección_7st_macro,Lag_7st_macro
-pc_macro_laboral,23.54,0.5186,0.9387,Directa,-1
-pc_macro_estructural,22.62,0.4983,0.8986,Directa,0
-pc_macro_inmobiliario,21.53,0.4744,0.9567,Directa,-1
-pc_macro_coyuntural,18.29,0.4029,0.7823,Directa,1
-pc_macro_financiero,14.02,0.3088,0.8501,Directa,3
+pc_macro_estructural,25.18,0.5495,0.9145,Directa,-2
+pc_macro_financiero,23.28,-0.508,-0.8788,Indirecta,-3
+pc_macro_laboral,20.11,-0.439,-0.7228,Indirecta,0
+pc_macro_inmobiliario,19.26,-0.4204,-0.7386,Indirecta,-3
+pc_macro_coyuntural,12.17,-0.2656,-0.5409,Indirecta,2
