@@ -1,5 +1,5 @@
 Variable_30r_gt1,Contribución (%)_30r_gt1,Carga_PC1_30r_gt1,Max_Corr_30r_gt1,Dirección_30r_gt1,Lag_30r_gt1
-OSR_Ceuta,29.36,0.5779,0.9846,Directa,1
-OSR_PaisVasco,27.74,0.546,0.9745,Directa,2
-AAPP_Ceuta,25.3,0.4979,0.8425,Directa,0
-AAPP_PaisVasco,17.6,0.3464,0.7816,Directa,-3
+OSR_Ceuta_Melilla,30.88,0.6011,0.9684,Directa,0
+OSR_PaisVasco,28.06,0.5462,0.9426,Directa,2
+AAPP_Ceuta_Melilla,25.78,0.5018,0.8084,Directa,0
+AAPP_PaisVasco,15.29,0.2976,0.6884,Directa,-3
