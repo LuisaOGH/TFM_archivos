@@ -1,7 +1,5 @@
 Variable_30r_gt3,Contribución (%)_30r_gt3,Carga_PC1_30r_gt3,Max_Corr_30r_gt3,Dirección_30r_gt3,Lag_30r_gt3
-OSR_Madrid,19.2,0.4611,0.9548,Directa,0
-OSR_Baleares,18.99,0.4562,0.9781,Directa,1
-AAPP_Baleares,18.59,0.4465,0.9246,Directa,0
-OSR_Murcia,18.49,0.4441,0.9676,Directa,2
-AAPP_Murcia,14.67,0.3525,0.7298,Directa,0
-AAPP_Madrid,10.06,0.2416,0.8326,Directa,-3
+OSR_Madrid,31.86,0.6178,0.9485,Directa,0
+OSR_Murcia,29.47,0.5716,0.9479,Directa,2
+AAPP_Murcia,23.04,0.4468,0.686,Directa,0
+AAPP_Madrid,15.63,0.3032,0.7855,Directa,-3
