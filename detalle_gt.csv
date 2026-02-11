@@ -1,8 +1,8 @@
 grupo_terri_num,CCAA,Num_CCAA
-1_altoR-altoSP,"['Ceuta_Melilla', 'PaisVasco']",2
-2_altoR-medioSP,['Valencia'],1
+1_altoR-altoSP,['PaisVasco'],1
+2_altoR-medioSP,"['CastillaLaMancha', 'Valencia']",2
 3_altoR-bajoSP,"['Murcia', 'Madrid', 'Baleares']",3
-5_medioR-medioSP,"['Aragon', 'CastillaLaMancha', 'CastillaLeon', 'Canarias']",4
+5_medioR-medioSP,"['Aragon', 'CastillaLeon', 'Canarias']",3
 6_medioR-bajoSP,"['Navarra', 'Andalucia']",2
 7_bajoR-altoSP,"['Extremadura', 'Asturias']",2
 8_bajoR-medioSP,"['Galicia', 'LaRioja']",2
