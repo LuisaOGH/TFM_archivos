@@ -1,9 +1,10 @@
 Variable_31st_r_ggtt,Contribución (%)_31st_r_ggtt,Carga_PC1_31st_r_ggtt,Max_Corr_31st_r_ggtt,Dirección_31st_r_ggtt,Lag_31st_r_ggtt
-PCA riesgos gt2,12.97,0.3666,0.9937,Directa,0
-PCA riesgos gt6,12.92,0.3653,0.9901,Directa,0
-PCA riesgos gt3,12.82,0.3625,0.9825,Directa,0
-PCA riesgos gt5,12.54,0.3544,0.9604,Directa,0
-PCA riesgos gt1,12.51,0.3535,0.9581,Directa,0
-PCA riesgos gt7,12.45,0.3521,0.9542,Directa,0
-PCA riesgos gt8,12.19,0.3446,0.9747,Directa,1
-PCA riesgos gt9,11.6,0.3279,0.8887,Directa,0
+PCA riesgos gt2,11.5,0.3447,0.9947,Directa,0
+PCA riesgos gt4,11.46,0.3436,0.9914,Directa,0
+PCA riesgos gt6,11.43,0.3427,0.9888,Directa,0
+PCA riesgos gt3,11.35,0.3402,0.9816,Directa,0
+PCA riesgos gt5,11.14,0.3341,0.964,Directa,0
+PCA riesgos gt1,11.08,0.3322,0.9585,Directa,0
+PCA riesgos gt7,11.07,0.3319,0.9576,Directa,0
+PCA riesgos gt8,10.76,0.3225,0.973,Directa,1
+PCA riesgos gt9,10.22,0.3065,0.8843,Directa,0
