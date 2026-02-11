@@ -1,3 +1,3 @@
 Variable_22st_cons,Contribución (%)_22st_cons,Carga_PC1_22st_cons,Max_Corr_22st_cons,Dirección_22st_cons,Lag_22st_cons
-PCA riesgos construccion,50.0,0.7071,0.9023,Directa,-1
-PCA macro construccion,50.0,0.7071,0.8924,Directa,1
+PCA riesgos construccion,50.0,-0.7071,-0.8977,Indirecta,-1
+PCA macro construccion,50.0,0.7071,0.8959,Directa,1
