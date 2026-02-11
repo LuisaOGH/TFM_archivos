@@ -1,9 +1,5 @@
 Variable_30r_gt5,Contribución (%)_30r_gt5,Carga_PC1_30r_gt5,Max_Corr_30r_gt5,Dirección_30r_gt5,Lag_30r_gt5
-OSR_Aragon,13.85,0.3896,0.9538,Directa,1
-OSR_CastillaLaMancha,13.67,0.3845,0.9448,Directa,1
-AAPP_CastillaLaMancha,13.33,0.375,0.8843,Directa,0
-OSR_Canarias,13.29,0.3739,0.9462,Directa,2
-OSR_CastillaLeon,12.79,0.3598,0.9139,Directa,2
-AAPP_Aragon,11.9,0.3347,0.8059,Directa,-1
-AAPP_CastillaLeon,11.37,0.32,0.8467,Directa,-2
-AAPP_Canarias,9.81,0.2759,0.6506,Directa,0
+OSR_Aragon,28.57,0.5672,0.9112,Directa,1
+OSR_Canarias,26.81,0.5323,0.8885,Directa,1
+AAPP_Aragon,24.09,0.4783,0.7586,Directa,-1
+AAPP_Canarias,20.53,0.4077,0.6349,Directa,0
