@@ -1,3 +1,3 @@
 Variable_23st_serv,Contribución (%)_23st_serv,Carga_PC1_23st_serv,Max_Corr_23st_serv,Dirección_23st_serv,Lag_23st_serv
-PCA riesgos construccion,50.0,0.7071,0.8922,Directa,0
-PCA macro construccion,50.0,0.7071,0.8922,Directa,0
+PCA riesgos servicios,50.0,0.7071,0.8922,Directa,0
+PCA macro servicios,50.0,0.7071,0.8922,Directa,0
