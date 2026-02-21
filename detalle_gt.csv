@@ -1,10 +1,10 @@
 grupo_terri_num,CCAA,Num_CCAA
-1_altoR-altoSP,"['PaisVasco', 'Ceuta_Melilla']",2
-2_altoR-medioSP,"['Baleares', 'Valencia']",2
-3_altoR-bajoSP,"['Murcia', 'Madrid']",2
-4_medioR-altoSP,"['CastillaLeon', 'CastillaLaMancha']",2
-5_medioR-medioSP,"['Aragon', 'Canarias']",2
-6_medioR-bajoSP,"['Andalucia', 'Navarra']",2
-7_bajoR-altoSP,"['Asturias', 'Extremadura']",2
-8_bajoR-medioSP,"['Galicia', 'LaRioja']",2
-9_bajoR-bajoSP,"['Cantabria', 'Cataluña']",2
+1_altoR-altoSP,"['PaisVasco', '1_altoR-altoSP', 'Ceuta_Melilla']",3
+2_altoR-medioSP,"['2_altoR-medioSP', 'Baleares', 'Valencia']",3
+3_altoR-bajoSP,"['3_altoR-bajoSP', 'Madrid', 'Murcia']",3
+4_medioR-altoSP,"['7_bajoR-altoSP', '4_medioR-altoSP', 'CastillaLaMancha', 'CastillaLeon']",4
+5_medioR-medioSP,"['Canarias', 'Aragon']",2
+6_medioR-bajoSP,"['Navarra', '6_medioR-bajoSP', 'Andalucia']",3
+7_bajoR-altoSP,"['Extremadura', 'Asturias']",2
+8_bajoR-medioSP,"['5_medioR-medioSP', '8_bajoR-medioSP', 'LaRioja', 'Galicia']",4
+9_bajoR-bajoSP,"['9_bajoR-bajoSP', 'Cantabria', 'Cataluña']",3
