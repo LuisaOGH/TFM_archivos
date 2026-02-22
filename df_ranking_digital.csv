@@ -1,23 +1,23 @@
-Unidad,Indice_Digitalizacion,Tipo,Ranking_Grupo,Perfil,Unidad_Clean,Lag_PCA,Sensibilidad,Unidad_Normalizada
-Ceuta y Melilla,77.32685629417668,Territorio,1,Alta Digitalización,Ceuta y Melilla,-1,Alta (Anticipa),ceutaymelilla
-Baleares,76.81632617898222,Territorio,2,Alta Digitalización,Baleares,0,Media (Sincroniza),baleares
-Murcia,76.4119038219989,Territorio,3,Alta Digitalización,Murcia,0,Media (Sincroniza),murcia
-Madrid,76.2267456330001,Territorio,4,Alta Digitalización,Madrid,-1,Alta (Anticipa),madrid
-Cataluña,75.8546922709628,Territorio,5,Alta Digitalización,Cataluña,0,Media (Sincroniza),cataluna
-Canarias,75.75293904060153,Territorio,6,Alta Digitalización,Canarias,0,Media (Sincroniza),canarias
-Andalucia,75.49657860192569,Territorio,7,Alta Digitalización,Andalucia,0,Media (Sincroniza),andalucia
-Castilla la Mancha,75.4115293550855,Territorio,8,Alta Digitalización,Castilla la Mancha,0,Media (Sincroniza),castillalamancha
-Valencia,75.12707625604965,Territorio,9,Alta Digitalización,Valencia,0,Media (Sincroniza),valencia
-Navarra,75.08508291513391,Territorio,10,Alta Digitalización,Navarra,0,Media (Sincroniza),navarra
-Aragon,74.61581792340958,Territorio,11,Alta Digitalización,Aragon,0,Media (Sincroniza),aragon
-La Rioja,74.5262771065612,Territorio,12,Baja Digitalización,La Rioja,0,Media (Sincroniza),larioja
-Extremadura,74.25059522401365,Territorio,13,Baja Digitalización,Extremadura,0,Media (Sincroniza),extremadura
-Pais Vasco,73.84413725429486,Territorio,14,Baja Digitalización,Pais Vasco,0,Media (Sincroniza),paisvasco
-Cantabria,73.45760546308378,Territorio,15,Baja Digitalización,Cantabria,0,Media (Sincroniza),cantabria
-Galicia,73.37722542153048,Territorio,16,Baja Digitalización,Galicia,0,Media (Sincroniza),galicia
-Castilla Leon,72.89820023713072,Territorio,17,Baja Digitalización,Castilla Leon,0,Media (Sincroniza),castillaleon
-Asturias,72.12932703272241,Territorio,18,Baja Digitalización,Asturias,0,Media (Sincroniza),asturias
-S_Terciario,36.88,Sector,19,Baja Digitalización,S_Terciario,-1,Alta (Anticipa),sterciario
-S_Secundario_exConstr,30.35,Sector,20,Baja Digitalización,S_Secundario_exConstr,0,Media (Sincroniza),ssecundarioexconstr
-S_Construccion,15.14,Sector,21,Baja Digitalización,S_Construccion,1,Baja (Retarda),sconstruccion
-S_Primario,0.0,Sector,22,Baja Digitalización,S_Primario,0,Media (Sincroniza),sprimario
+Unidad,Valor,Tipo,Ranking_Grupo,Perfil,Lag_PCA,Sensibilidad
+Andalucia,75.49657860192569,Territorio,7,Alta Digitalización,0,Media (Sincroniza)
+Aragon,74.61581792340958,Territorio,11,Baja Digitalización,0,Media (Sincroniza)
+Asturias,72.12932703272241,Territorio,18,Baja Digitalización,0,Media (Sincroniza)
+Baleares,76.81632617898222,Territorio,2,Alta Digitalización,0,Media (Sincroniza)
+Canarias,75.75293904060153,Territorio,6,Alta Digitalización,0,Media (Sincroniza)
+Cantabria,73.45760546308378,Territorio,15,Baja Digitalización,0,Media (Sincroniza)
+Castilla Leon,72.89820023713072,Territorio,17,Baja Digitalización,0,Media (Sincroniza)
+Castilla la Mancha,75.4115293550855,Territorio,8,Alta Digitalización,0,Media (Sincroniza)
+Cataluña,75.8546922709628,Territorio,5,Alta Digitalización,0,Media (Sincroniza)
+Valencia,75.12707625604965,Territorio,9,Alta Digitalización,0,Media (Sincroniza)
+Extremadura,74.25059522401365,Territorio,13,Baja Digitalización,0,Media (Sincroniza)
+Galicia,73.37722542153048,Territorio,16,Baja Digitalización,0,Media (Sincroniza)
+Madrid,76.2267456330001,Territorio,4,Alta Digitalización,-1,Alta (Anticipa)
+Murcia,76.4119038219989,Territorio,3,Alta Digitalización,0,Media (Sincroniza)
+Navarra,75.08508291513391,Territorio,10,Baja Digitalización,0,Media (Sincroniza)
+Pais Vasco,73.84413725429486,Territorio,14,Baja Digitalización,0,Media (Sincroniza)
+La Rioja,74.5262771065612,Territorio,12,Baja Digitalización,0,Media (Sincroniza)
+Ceuta y Melilla,77.32685629417668,Territorio,1,Alta Digitalización,-1,Alta (Anticipa)
+S_Primario,0.0,Sector,4,Baja Digitalización,0,Media (Sincroniza)
+S_Secundario_exConstr,30.35,Sector,2,Alta Digitalización,0,Media (Sincroniza)
+S_Construccion,15.14,Sector,3,Baja Digitalización,1,Baja (Retarda)
+S_Terciario,36.88,Sector,1,Alta Digitalización,-1,Alta (Anticipa)
