@@ -1,0 +1,4 @@
+cluster,n_grupos,Grupos_en_cluster,sens_serv_actual,sens_cons_actual,ISC,Vanguardia,Gap_Institucional
+0,3,"Madrid, Ceuta_Melilla, Canarias",0.8470770722709959,0.06346945559566496,0.22705,0.6666666666666666,1.3333333333333333
+1,14,"Murcia, CastillaLeon, Asturias, Galicia, PaisVasco, Aragon, Valencia, CastillaLaMancha, Andalucia, LaRioja, Extremadura, Cantabria, Cataluña, Navarra",0.650777923954718,0.07427462285385432,0.23461785714285716,0.0,0.6428571428571429
+2,1,Baleares,0.8130260910075265,0.10932787383534609,0.24764999999999998,0.0,1.0
